@@ -4,4 +4,4 @@ git has a mutable ines called stage.
 git tracks changes of files.
 Creating a new branch is quick.
 haha
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
